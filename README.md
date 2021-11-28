@@ -1,4 +1,4 @@
 # Amazon-clone-
-follow this link to see the last product 
+follow this link to see web  
 
 https://clone-e8449.web.app/
